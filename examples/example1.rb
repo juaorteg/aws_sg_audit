@@ -61,6 +61,10 @@ end
 
     NO MATCH! - udp -> [53..53]
 
+--------> default
+    NO MATCH! - tcp -> [22..22, 80..80]
+
+    NO MATCH! - icmp -> [8..-1]
 
 ---> egress
 --------> 0.0.0.0/0
