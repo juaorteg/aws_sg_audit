@@ -1,4 +1,4 @@
-#!/usr/examples/env ruby
+#!/usr/bin/env ruby
 require 'aws-sdk'
 require 'aws_sg_audit'
 
