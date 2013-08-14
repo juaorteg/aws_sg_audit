@@ -57,13 +57,13 @@ end
 
 ---> ingress
 --------> 55.44.33.22/32
-		MATCH! - tcp -> [22..22, 80..80, 443..443]
+    MATCH! - tcp -> [22..22, 80..80, 443..443]
 
     NO MATCH! - udp -> [53..53]
 
 
 ---> egress
 --------> 0.0.0.0/0
-		MATCH! - all -> all
+    MATCH! - all -> all
 
 =end
