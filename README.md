@@ -19,6 +19,7 @@ Need ruby version > 1.9.3
 - Support non-range ports
 - Support any extra ports found
 - Better way to define the access/secret aws keys
+- Documentation
 - Make into a Gem
 
 ## Contributing
