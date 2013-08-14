@@ -10,6 +10,17 @@ See examples
 
 Need ruby version > 1.9.3
 
+## TODO
+
+- Better list of commonly use Ports
+- Better Error Handling
+- Support non VPC Security Groups
+- Clean the output
+- Support non-range ports
+- Support any extra ports found
+- Better way to define the access/secret aws keys
+- Make into a Gem
+
 ## Contributing
 
 1. Fork it
