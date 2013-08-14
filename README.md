@@ -8,6 +8,8 @@ Currently works, but needs documentation and a lot of improvements.
 
 See examples
 
+Need ruby version > 1.9.3
+
 ## Contributing
 
 1. Fork it
