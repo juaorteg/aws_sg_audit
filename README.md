@@ -20,6 +20,7 @@ Need ruby version > 1.9.3
 - Support any extra ports found
 - Better way to define the access/secret aws keys
 - Use Threads for speed
+- More symbols for multiple regions/vpcs
 - Documentation
 - Make into a Gem
 
